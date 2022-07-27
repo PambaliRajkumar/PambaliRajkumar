@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PambaliRajkumar
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on which I can learn alot more new technologies to learn.
+- 💞️ I’m looking to collaborate on which I can learn alot more new technologies .
 - 📫 How to reach me ? mail: pambalirajkumar1@gmail.com
 
 <!---
